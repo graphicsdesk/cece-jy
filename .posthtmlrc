@@ -7,12 +7,168 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Cecelia Collins grew up surrounded by basketball."
+          },
+          {
+            "type": "text",
+            "value": "Coming from a family of hoopers, including an uncle who coached at the collegiate level, the senior guard developed her love for the game at an early age. Still, she could not have predicted the path her relationship with the sport would take: from Scranton, Pennsylvania, to New York City as a two-time Ivy League champion."
+          },
+          {
+            "type": "text",
+            "value": "Although she has dreamt of playing college basketball since middle school, Collins worried that her height precluded her from reaching the Division I level. She stood at just five foot three in eighth grade, but her love for the sport kept her determined to continue playing regardless of the level."
+          },
+          {
+            "type": "text",
+            "value": "A growth spurt in her sophomore year of high school opened up new possibilities for the guard. Now standing at six feet tall, Collins received increased attention from D-I programs and committed to Bucknell University. The Bisons compete in the Patriot League, and during Collins’ two years in Lewisburg, Pennsylvania, they finished fourth and sixth in the conference."
+          },
+          {
+            "type": "text",
+            "value": "As time passed, Collins began to feel like she needed a new challenge."
+          },
+          {
+            "type": "text",
+            "value": "“I had great experiences at Bucknell. I mean, I met some of my best friends there. I still keep in contact with a ton of those people. It kind of just felt like I outgrew Bucknell a little bit,” she said. “It was very comfortable there, and I kind of wanted to push myself out of my comfort zone a bit.”"
+          },
+          {
+            "type": "text",
+            "value": "Bucknell was close to home for the Scranton native, and compared to New York City, it’s “kind of in the middle of nowhere.” So, Collins entered the transfer portal ahead of her junior season. In doing so, she prioritized finding a new challenge—both athletically and academically—which landed Columbia on her radar."
+          },
+          {
+            "type": "text",
+            "value": "Collins recalled immediately trusting Columbia women’s basketball staff as she learned more about the Lions’ team culture."
+          },
+          {
+            "type": "text",
+            "value": "“The relationships I thought that they had with the other people in the program really just spoke to me,” Collins said. “I felt like every person I talked to on the team just spoke so highly of the staff, and then the staff just spoke so highly of the players and everyone else in the program.”"
+          },
+          {
+            "type": "text",
+            "value": "Collins also credits her comfort upon arriving in Morningside Heights to her connection with head coach Megan Griffith, CC ’07."
+          },
+          {
+            "type": "text",
+            "value": "“We had some pretty deep conversations during the recruiting process, which doesn’t happen a lot. But I think I kind of knew what I wanted when I was going into the portal, and relationships and environment and culture was a big thing for me,” Collins said. “So she stressed that that’s what I would get here, and more. And I trusted her.”"
+          },
+          {
+            "type": "text",
+            "value": "As a former Columbia women’s basketball player herself, Griffith assuaged some of Collins’ concerns about the academic transition by offering her guidance on how to balance being a student-athlete at an Ivy League school."
+          },
+          {
+            "type": "text",
+            "value": "“She was really glad that I opened up to her about that, and then through the years, I’ve just been able to grow closer to her,” Collins said."
+          },
+          {
+            "type": "text",
+            "value": "While Columbia’s Core Curriculum was a significant adjustment, Collins was able to rely on her teammates to help her through."
+          },
+          {
+            "type": "text",
+            "value": "“It’s definitely been a little bit more stressful compared to my last school,” Collins said of the student-athlete balance in an October 2024 preseason press conference. “But I also know that the pros outweigh the cons by so much.”"
+          },
+          {
+            "type": "text",
+            "value": "From her early days on the team, Collins described her relationship with her teammates as “seamless.” On the court, Columbia has a much faster style of play than Bucknell, but Collins smoothly transitioned to the Lions’ pace. In her junior year, she averaged 26.4 minutes per game, and her average rebounds and assists per game increased."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "cece_numbers.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In her first year with the Light Blue, the Lions won their second consecutive Ivy League title and took their first trip to March Madness. Collins also learned valuable leadership skills on and off the court from then-captains Abbey Hsu, CC ’24, and senior guard Kitty Henderson, then in her junior season."
+          },
+          {
+            "type": "text",
+            "value": "Her relationship with Henderson has always been special, even from the very beginning, and Collins recalls their time together fondly."
+          },
+          {
+            "type": "text",
+            "value": "“She just texted me the first day, and she’s like, ‘Let’s go grab lunch,’” Collins said, reflecting back on the duo’s first interaction when she arrived on campus in September 2023. “And I was like, ‘Oh, I wonder why Kitty wants to grab lunch.’ And she just wanted to get to know me, and I was gonna be the person there to be in the junior class, like it was just us two, and then from there we’ve been best friends ever since.”"
+          },
+          {
+            "type": "text",
+            "value": "Returning for her senior season, Collins was named team captain alongside Henderson and junior forward Perri Page. While she was previously a captain at Bucknell, she felt that she was too young at the time to grasp the weight of the role. As a senior, though, she was ready."
+          },
+          {
+            "type": "text",
+            "value": "“It honestly means everything,” Collins said of taking on the leadership role at Columbia. “I don’t think I really understood the honor of being a captain until I came here.”"
+          },
+          {
+            "type": "text",
+            "value": "The team entered the 2024-25 season with ambitious goals and quickly rose to the occasion. The Lions posted a 13-1 conference record and clinched the team’s second consecutive bid to the Big Dance. Collins’ role on the court continued to grow, and she could be counted on as a steady presence among the Light Blue’s starters."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "cece.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Collins became the third player in program history to earn a triple-double as the Lions defeated Yale on March 1—just one day after Henderson became the second. The duo’s basketball journeys have been intertwined since they first stepped on the court together, resulting in a lifetime bond."
+          },
+          {
+            "type": "text",
+            "value": "“It’s crazy that Cece was only here for two years, because I just think we’ve created such a strong friendship,” Henderson reflected on their relationship. “She’s such a smart player. And I love playing with smart players, because they’ll always make the right read, no matter what. And she plays so hard too—she’s very, very similar to me, in that we’re both very passionate.”"
+          },
+          {
+            "type": "text",
+            "value": "As her senior season drew to a close, Collins’ family was a consistent presence in the stands. They made the trip to Morningside Heights to cheer her on against Harvard, and even traveled down to Chapel Hill, North Carolina, to support her on the biggest stage in college basketball at March Madness. Their unwavering show of support reinforced for Collins that basketball has always been a family journey."
+          },
+          {
+            "type": "text",
+            "value": "In the Lions’ First Four matchup, Collins put up 12 points against the University of Washington as the Light Blue claimed its first ever NCAA tournament win. Still, not content to sit back and bask in this accomplishment, Collins believed that her team could fight for a spot in the Sweet 16."
+          },
+          {
+            "type": "text",
+            "value": "Although the team bowed out of the tournament after losing to West Virginia University in the round of 64, the Light Blue refused to go down without a fight: Collins led the Lions in scoring with 16 points."
+          },
+          {
+            "type": "text",
+            "value": "“Cecelia just brings so much joy to every day. She’s probably one of, if not the most, enjoyable people to coach that I’ve had in my career,” Griffith said postgame. “Because it’s about loving the game, and it’s so pure when you’re around her.”"
+          },
+          {
+            "type": "text",
+            "value": "As Collins looks to the future, she’s confident that the lessons she’s learned during her time on women’s basketball will stick with her, whether she continues playing professionally overseas or steps into the corporate sphere."
+          },
+          {
+            "type": "text",
+            "value": "“Basketball is going to stay with me regardless, just because of what I’ve learned from it,” Collins said. “Learning how to lead, learning how to work as a team, learning how to be hard on others when it might be uncomfortable. I think those are things that I’ll take from this program specifically.”"
+          },
+          {
+            "type": "text",
+            "value": "With her grit on the court and the genuine faith she has in the program’s potential, Collins leaves the Lions in a better place than she found them just two short years ago."
+          },
+          {
+            "type": "text",
+            "value": "<i>Sports Editor Jillian Prunty can be contacted at </i><a href=\"mailto:jillian.prunty@columbiaspectator.com\"><i>jillian.prunty@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://x.com/jilliannprunty\"><i>@jilliannprunty</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Emilia Lebeau can be contacted at </i><a href=\"mailto:emilia.lebeau@columbiaspectator.com\"><i>emilia.lebeau@columbiaspectator.com.</i></a><i> Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Cecelia Collins, CC ’25, on transfer and triumph",
+        "dek": "In her two years at Morningside Heights, Collins has left a mark on the women’s basketball program.",
+        "date": "May 4, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/jillian-prunty/\">Jillian Prunty</a>",
+        "byline2": "Graphics by <a href=\"https://www.columbiaspectator.com/contributors/emilia-lebeau/\">Emilia Lebeau</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IGSQKAT2LFCQ7CNPIRJL3UW77Q.jpeg",
+        "cover_caption": "Anaïs Fotsing / Deputy Illustrator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1dPxzffIRTJ2KzH7MwFstANrisVAP0GFzdbTtzPF1RKA/edit?tab=t.0"
       }
     }
   }
